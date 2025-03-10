@@ -1,0 +1,9 @@
+pandas
+textblob
+transformers
+torch
+selenium
+seaborn
+matplotlib
+streamlit
+cohere
