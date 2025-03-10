@@ -5,7 +5,7 @@ import streamlit as st
 import cohere
 
 # Initialize Cohere Client
-COHERE_API_KEY = "dU0oZVxOTAu1NQqQsPwPKDAEwAuEF9Gd4WWMKvuY"  # Replace with your actual API key
+COHERE_API_KEY = ""  # Replace with your actual API key
 co = cohere.Client(COHERE_API_KEY)
 
 # Load the processed CSV file
